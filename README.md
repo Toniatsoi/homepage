@@ -1,2 +1,2 @@
-# myhomepage
+# homepage
 My Homepage 
